@@ -1,0 +1,46 @@
+table{
+    margin: auto;
+    width: 80%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.title{
+    background-color: rgb(83, 173, 198);
+    color: white;
+    font-weight: bolder;
+}
+body{
+    font-family: Arial;
+}
+.blue{
+    background-color: rgb(130, 186, 211);
+    color: rgb(0, 0, 0);
+}
+td{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+}
+.purple{
+    background-color: rgb(220, 173, 220);
+    color: white;
+}
+.series-blue{
+    background-color: rgb(164, 204, 217);
+    color: white;
+}
+.pink{
+    background-color: rgb(223, 150, 173);
+    color: white;
+}
+.yellow{
+    background-color: rgb(190, 157, 212);
+    color: white;
+}
+.rodape{
+    background-color: rgb(115, 177, 215);
+    color: white;
+}
+th{
+    padding: 5px;
+}
